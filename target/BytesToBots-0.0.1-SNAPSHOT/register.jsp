@@ -109,7 +109,7 @@ $(document).ready(function(){
                                                 	<li><a href="service-details.jsp#rec">Recruiting Services</a></li>
                                             	</ul>
                                         </li>
-                                        <li><a href="job-opportunity.jsp">Hot Jobs</a></li>
+                                        <!-- <li><a href="job-opportunity.jsp">Hot Jobs</a></li> -->
                                         <li><a href="careers.jsp">Careers</a></li>
                                         <!-- 
                                         <li class="dropdown"><a href="#">Pages</a>

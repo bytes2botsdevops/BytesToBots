@@ -119,7 +119,7 @@
                                                 	<li><a href="service-details.jsp#rec">Recruiting Services</a></li>
                                             	</ul>
                                         </li>
-                                        <li><a href="job-opportunity.jsp">Hot Jobs</a></li>
+                                        <!-- <li><a href="job-opportunity.jsp">Hot Jobs</a></li> -->
                                         <li class="current-menu-item"><a href="careers.jsp">Careers</a></li>
                                         <!-- <li class="dropdown current-menu-item"><a href="#">Pages</a>
                                             <ul>
