@@ -1020,5 +1020,6 @@ if (null != uSessionBean)
 	<script src="assets/js/appear.js"></script>
 	<!-- Custom script -->
 	<script src="assets/js/script.js"></script>
+	<b></b>
 </body>
 </html>
